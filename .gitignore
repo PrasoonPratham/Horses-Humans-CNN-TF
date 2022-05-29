@@ -155,3 +155,5 @@ cython_debug/
 /data
 
 data.zip
+
+.DS_Store
