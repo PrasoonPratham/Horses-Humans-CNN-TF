@@ -157,3 +157,5 @@ cython_debug/
 data.zip
 
 .DS_Store
+
+valid-data.zip
