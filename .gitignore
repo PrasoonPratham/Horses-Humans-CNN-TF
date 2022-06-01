@@ -153,9 +153,7 @@ cython_debug/
 
 # Ignoring the dataset
 /data
-
 data.zip
-
 .DS_Store
-
 valid-data.zip
+inception_v3.h5
